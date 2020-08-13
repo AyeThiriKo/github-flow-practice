@@ -1,4 +1,4 @@
 # github-flow-practice
 
 I am ayethiriko.
-Blood type is O.
+Blood type is A type
