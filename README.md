@@ -1,3 +1,4 @@
 # github-flow-practice
 
-ayethiriko
+I am ayethiriko.
+Blood type is O.
